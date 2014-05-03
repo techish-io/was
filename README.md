@@ -16,10 +16,10 @@ Redhat
     <th>Default</th>
   </tr>
   <tr>
-    <td><tt>['was']['bacon']</tt></td>
-    <td>Boolean</td>
-    <td>whether to include bacon</td>
-    <td><tt>true</tt></td>
+    <td><tt>['was']['version']</tt></td>
+    <td>int</td>
+    <td>default was version</td>
+    <td><tt>8.5</tt></td>
   </tr>
 </table>
 
