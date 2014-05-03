@@ -1,6 +1,6 @@
 # was-cookbook
 
-The wlp cookbook installs and configures the WebSphere Application Server
+The was cookbook installs and configures the WebSphere Application Server
 
 ## Supported Platforms
 
