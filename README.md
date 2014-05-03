@@ -1,10 +1,10 @@
 # was-cookbook
 
-TODO: Enter the cookbook description here.
+The wlp cookbook installs and configures the WebSphere Application Server
 
 ## Supported Platforms
 
-TODO: List your supported platforms.
+Redhat
 
 ## Attributes
 
